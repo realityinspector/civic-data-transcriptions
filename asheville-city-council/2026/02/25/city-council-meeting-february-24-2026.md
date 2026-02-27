@@ -1,0 +1,753 @@
+---
+title: "City Council Meeting – February 24, 2026"
+url: "https://www.youtube.com/watch?v=xz7FrFLV1U8"
+channel: "City of Asheville"
+date: "2026-02-25"
+entity: "asheville-city-council"
+duration: 5850.2
+speakers: ['speaker_0', 'speaker_1', 'speaker_10', 'speaker_11', 'speaker_12', 'speaker_13', 'speaker_14', 'speaker_15', 'speaker_16', 'speaker_17', 'speaker_2', 'speaker_3', 'speaker_4', 'speaker_5', 'speaker_6', 'speaker_7', 'speaker_8', 'speaker_9']
+---
+
+# City Council Meeting – February 24, 2026
+
+[speaker_0]: All right. We are, um, I think we are live and ready to go. Welcome to the Asheville City Council meeting. Sorry for the delay. We ran a work session right up to the, right up to the edge there right before this. Um, if everyone would take a moment to silence their cell phones. If you would like to sign up to speak, please step out to the hall, and you can sign up to speak at the desk out, out in the hall. If you would, please rise for the pledge of allegiance.
+
+[speaker_1]: I pledge allegiance to the flag of the United States of America, and to the Republic for which it stands, one nation under God, indivisible, with liberty and justice for all.
+
+[speaker_0]: Um, as is my new habit, I'm going to read the chamber decorum statement. This is, uh, from the city council policy on meetings. Members of the public attending council meetings or addressing the council shall abide by the following rules. Everyone shall follow the instructions of the mayor or any other presiding officer or official and shall refrain from impeding or interrupting the conduct of business. This shall include, but not be limited to clapping, yelling, and other audial expressions of approval or disapproval of comments made during the meeting. Persons addressing the council are expected to observe the decorum of the chamber, to be respectful of the council and the public, to refrain from the use of profanity or foul language, to refrain from personal attacks and commentary on candidates for political office, and to refrain from making disclosures prohibited by the Personnel Privacy Act with respect to any city employee. Failure to abide by these rules may subject you to removal from the council chamber. All right. Thank you. We have, um, two proclamations today, and the first is Black History Month. And I know Ms. Orlane Sims is here, uh, and anyone else with her. Please feel free to come forward and meet me down by the lectern. Okay. I'm gonna read this, and then... This is on. Uh, and then if you would like to read some comments, please. City of Asheville Proclamation. Whereas the month of February is nationally designated as Black History Month, and whereas Black History Month is a time of acknowledgment and celebration for all Americans to honor and recognize those who have advanced the causes of civil rights, human rights, strengthened our nation, our communities, our families, and who were instrumental in building a legacy of excellence for which we are inspired, along with building a nation of freedom and equality for all people. And whereas in Black History Month, we, as citizens, a community and a nation, acknowledge the historically painful past of chattel slavery, Jim Crow, and the atrocities taken against African Americans, the lives lost, the harm committed, and the present-day ramifications that are still impacting our African American communities for which we, as a city, are committed to addressing through our policies, practices, and visioning. And whereas during Black History Month, all Americans are encouraged to reflect on and honor the journey of African Americans, the rich ancestral heritage, the resilience, the sacrifices, the courage, and the enduring legacy of invaluable contributions including, but not limited to medicine, science, architecture, education, government, engineering, the arts, leadership and social justice, including our local heroes and heroines of Asheville. And whereas in acknowledging African Americans and celebrating Black History Month, we do so collectively as citizens, as a community, and a country with appreciation and gratitude. Gratitude for the remarkable strength, commitment, and resolve of human-- of the human spirit of African Americans to yearn for, create, and experience one of the greatest freedoms allotted to all persons of the human race, the autonomy of being recognized, valued, and dignified as a human being, for all persons are created equally. And whereas in honoring the immeasurable benefaction, um, of African Americans locally in our society and the globe, all Americans are encouraged to reflect on the past successes and challenges of African Americans, be inspired by these achievements such that every citizen continues to improve our society so that we look up to and embody the ideals and virtues of freedom, equality, and justice for all people of the human race. Now, therefore, I, Esther E. Manheimer, Mayor of the City of Asheville, do hereby proclaim February twenty twenty-six as Black History and Legacy Month in Asheville and encourage all citizens in Asheville to recognize the importance of Black History and Legacy Month in our lives and heritage.
+
+[speaker_2]: To the mayor and members of city council, it is a profound honor for the Dr. Martin Luther King Jr. Association of Asheville in Buncombe County to accept this Black History Month proclamationI am proud to stand here today alongside our dedicated board members, David King and Jonathan McCoy. This proclamation is more than words on paper. It is a reflection of truth, resilience, and hope. Its whereas' statements remind us that Black history is not confined to the past. It is breathing. It is woven into every fabric of our nation. Black History Month is a time of celebration, but also of recognition. Recognition of those who endured injustice, yet never surrendered their dignity. Those who faced barriers, yet kept building bridges. Those who carried dreams not only for themselves, but for the generations they might never see. Their courage shaped the freedom we walk in today. Their sacrifices echo in every opportunity, every voice, every door now open wider than before, and their legacy calls us forward. Again, thank you so very much from the Asheville City Council.
+
+[speaker_1]: Uh,
+
+[speaker_0]: we have one other proclamation today.
+
+[speaker_1]: Mm-hmm.
+
+[speaker_0]: Uh, and that is Invasive Species Awareness Week. I know, switching gears here. Okay. City of Asheville Proclamation. Whereas invasive species are among Asheville, North Carolina's most costly threats to natural ecosystems, and whereas invasive species management is an imperative field of study and educational opportunity for Asheville, North Carolina's recreationists, farmers, land managers, and water management, and whereas recreation, farming, fishing, and natural tourism have been a vital, of vital importance to Asheville, North Carolina's history, growth, and financial health. Whereas invasive species management improves the quality of life for all of Asheville, North Carolina's residents, and its importance should not go unnoticed, and whereas Asheville, North Carolina recognizes the need to manage invasive species to protect our ecosystems for future generations. Now, therefore, I, Esther Manheimer, Mayor of the City of Asheville, do hereby proclaim February twenty-third through twenty-seventh, twenty twenty-six as Invasive Species Awareness Week in the City of Asheville and invite all citizens to take due note of the observance.
+
+[speaker_1]: On
+
+[speaker_3]: behalf of Raven Invasive Plant Management, we would like to thank the City Council and the Mayor for acknowledging the importance of raising awareness of invasive species in this special place that we all love, that is one of the most biologically diverse places in the world. We look forward to working with you to mitigate invasive plants that threaten to destroy that which makes it so special. Thank you.
+
+[speaker_1]: Okay.
+
+[speaker_0]: Thank you. That, uh, concludes the proclamation portion of our agenda. Now we are on to the consent agenda. Council, do I have questions, comments, or a motion to approve the consent agenda?
+
+[speaker_1]: Move to approve the consent agenda. Second.
+
+[speaker_4]: I just wanted to point out a couple of awesome things in the consent agenda, um, items I and J. Um, the first one is, um, equipment that can help reduce the risk of exposure to carcinogens for our Asheville firefighters, um, especially while they are fighting fires in the wild land. And then I'd just like to thank the members of the public. Uh, the second one is being able to utilize, um, donations that have been given to the Asheville Fire Department. And so, uh, thank you to those out there that have supported our Asheville firefighters.
+
+[speaker_0]: Thank you. All right, we have a motion and a second, and I don't have anyone signed up to speak under this item. So all those in favor, please say, "Aye."
+
+[speaker_1]: Aye.
+
+[speaker_0]: Any opposed? All right. That was fast. I usually ask. Okay, we're on to presentations and reports. I'm gonna turn it over to the manager for the presentations and reports section.
+
+[speaker_5]: Thank you, Mayor Manheimer. We have two items today under the manager's report. Uh, the first one being the second quarter financial report and then the capital projects quarterly update. First up will be, uh, Lindsay, uh, Spangler with our second quarter financial report.
+
+[speaker_1]: Good
+
+[speaker_6]: evening. I'm Lindsay Spangler, the city's budget and performance manager, and I'm here today with a brief update
+
+[speaker_7]: Um, to let everyone know how the city is doing financially, uh, as of the second quarter of the fiscal year. So this covers July through December, which is the first half of our fiscal year. So starting with key takeaways. Nothing too concerning that we're seeing so far, um, looking at revenues and expenses. Overall, our revenues remain on target to meet budget. Um, sales tax is kind of the one outlier in that area, and we'll talk a little bit more about that. Um, spending is occurring mostly as expected. We'll talk about certain trends in that area as well. Uh, and kind of the bottom line here is that we expect based on current-- our current projection, that we're going to use one point six million dollars in fund balance as opposed to the two point two that we have budgeted. So that's, that's better than we have budgeted. So that's great. All right. So starting by looking at the revenues. So as you know, property taxes are our largest source, source of revenue for the city. Um, bills were due in January, so, um, as of December, we had collected about seventy-seven percent of property taxes. So we do anticipate that by the time the third quarter report rolls around, we'll have collected the remaining amount. We usually just get almost about a hundred-- almost a hundred percent. Uh, and then for sales tax, we have five months of data so far. Um, those numbers come in at a bit of a lag from the state. Um, so right now, we have July through November. And as I mentioned, collections are coming in, um, obviously higher than last year since last year was, um, a bit of an outlier with Helene, but still trending below budget. Um, so not as, not as robust of numbers as we expected. Um, there are some changes in other revenue sources as well, but they kind of even themselves out and, um, more or less flat. Let me go a little bit out of order. Um, so looking at the spending side. So overall expenses are tracking as expected. Um, kind of one outlier we wanted to note is the, the police department is trending a bit over budget due to some increased personnel costs. Part of that is them being, um, understaffed for most of the first half of the year, um, which required them to use-- utilize more overtime to fill posts. Uh, and then, you know, they did have some pretty robust hiring going on, so those folks are just starting to get onto the street, um, and that increases their salary co-- salary spending as well. Um, overall, we're also looking to monitor healthcare costs, uh, since we, um, have seen those go up year over year and, um, last year we did end a little bit higher than we expected, so we're monitoring the-- that spending. Oops. Let me go back here for a second. So here's the slide that shows, um, how much fund balance we need to use if this projection carries forward to the end of the year. So we're expecting to bring in about one hundred and seventy-two point eight million dollars in revenue compared to, uh, one hundred and seventy-four point four million dollars of expenses. And so that gap between spending and revenue is one point six million dollars that we'd have to use, uh, fund balance to cover. And, um, as you might recall, we ended, uh, FY twenty-five with a fourteen percent fund balance, which you'll see here. Um, that was what was in the adopted. That was what was assumed as of the adopted budget. So, um, with using slightly less fund balance, we'd get to about fourteen point one percent. A little bit better. Uh, a little bit, uh, about enterprise funds. So most funds are, um, looking like they're trending, um, normal compared to prior years. There's two we wanted to point out, the parking fund and the HERA's fund. Both of those funds are trending, uh, a bit high in their revenues, so that's a good thing. Um, for parking fund, uh, you know, we've been through half of the year, and we have already collected fifty-three percent of the revenue that we expected to receive. So if that trend continues, which we expect it to, um, then we'll come in over budget, which is great. Uh, and HERA's revenue also is trending over budget. Um, uh, we-- you should expect to see a budget amendment come through, um, potentially sometime in March to give HERA additional spending authority so that they can use that extra funding. Uh, and that's all on the quarter two report. Are there any questions? All right. Thank you.
+
+[speaker_8]: How does this connect with what we heard earlier today with... There was kind of a general bucket of, um, the gap closing that we had previously discussed. Is this connected or no?
+
+[speaker_7]: Um, no. I t-
+
+[speaker_8]: This is for this year.
+
+[speaker_7]: Yeah. This is this year's budget. It's already balanced. There's no gap.
+
+[speaker_8]: Okay.
+
+[speaker_7]: Um, yeah.
+
+[speaker_8]: Just wanna make sure.
+
+[speaker_7]: Yeah.
+
+[speaker_8]: It's all about two different things.
+
+[speaker_7]: Yes.
+
+[speaker_8]: Thank you.
+
+[speaker_7]: Thanks.
+
+[speaker_9]: All right. Uh, up next, we'll have our, uh, quarterly report from Walter Peer on the capital program.
+
+[speaker_10]: Good evening, council, mayor, manager, staff. My name is Walter Ear. I am the interim director of the Capital Management Department, here to give you an update on the recap of the second quarter fiscal year, twenty twenty-five, twenty-six, and, uh, forecast of things to come in the year.A couple key takeaways. We'll talk about the capital framework we're gonna use to group our projects. Uh, our capital bond programs are about creating a future that for Asheville that is stronger, safer, and more connected. We're building intentionally, uh, for that future, and that requires time and some temporary disruption while we, um, ensure meaningful and lasting improvements. And then a quick recap on some, uh, recovery projects underway, um, as well as a, a little bit of, uh, a forecast for what we'll talk about in a upcoming work session in April. So outline of today's presentation. A little bit of housekeeping at the top, and then dive into steady state capital bond and infrastructure recovery. First off, out, uh, we have a capital budget work session coming up in April. Um, the focus will be our steady state CIP, our Capital Improvements Program. Um, we'll talk about how we, um, work through the spending plans and, um, set up our proposed spending for the next five fiscal years. Um, how we program that CIP, what we program to the CIP, how we use those funds to leverage to get additional funding. And then, uh, we'll be planting seeds to talk about large, uh, larger projects, more ambitious projects, as well as needed mid-sized programs, uh, when additional capacity becomes available. Touching on project communications, uh, we have more projects and bigger projects from our bond and recovery programs that has generated additional need or, or desire or higher expectations for communication and engagement. Um, we do have, uh, standard processes for community enga-- for communications and engagement and, uh, it's important to our teams that we use these tools, that we show consistency through that so that our community understands where we are with projects. Um, we've gotten better, working to get better and, um, if folks are interested in those projects, we, uh, encourage folks to go to the project pages and sign up for project updates. Now we'll dive into the steady state capital bond programs. Asheville, Asheville's infrastructure facilities, public spaces are a gift inherited from past generations, which is translation for we have lots of very old stuff.
+
+[speaker_1]: But
+
+[speaker_10]: our capital-
+
+[speaker_1]: What a gift.
+
+[speaker_10]: Bond programs, uh, do more than just repair what's old or broken. Um, they're about creating a future that for Asheville that is stronger, safer, and more connected. Um, we build stronger by building communi-- investing in community assets, quality of life, economic impact, and organizational health projects. Um, just to point out one thing here, McCormick Field will open, uh, renovations will be done this year. Um, looking forward to that first pitch on April eighth. We build safer by investing in public safety, transportation safety, structural integrity, and re-- infrastructure resilience projects. And we build, uh, a community that's more connected by investments in mobility, accessibility, new infrastructure, and placemaking. Um, you may notice from the last presentation to this one, we've advanced, uh, the Airport Road sidewalk, uh, onto construction, and we just had the pre-construction conference for the Johnson Boulevard sidewalk project. There's a lot of, lot of sidewalk projects on this, um, on this slide. We're excited to get those started. Ask for patience with our community as we, as we build that infrastructure. For a deep dive into one of our projects, uh, the Walton Street Park and Pool area. This is a project where there's a lot of information on this slide, and I've highlighted a couple things in bold. Um, all this to say we have been, uh, th-this is a project that has taken a long time to unpack. It started with a pool assessment in twenty twenty-six that found that the pool that existed there was, um, uh, underground infrastructure, pipes, et cetera, were, uh, in such a state that investments in it would not extend its useful life. Um, so the park-- the pool was moved. Um, we worked with community, invested in community prioritized park projects, uh, to improve that. And then, um, worked with the Southside United Neighborhood Association, SUNA, to lead, uh, where they led a community preference survey supported by the city. Um, one tidbit from that was, uh, fifty-four percent of respondents wanted a pool area that was flexible and that would serve as an intergen-generational space for community, led by a community-led effort. This is not the city saying this. Um, and then lastly, uh, this spring we had... I'm sorry, last spring, we solicited a designer. We're currently un-- um, in the process of doing design, um, and community engagement related to that. Happening now is, um, in our recent community engagement, came up with two different versions of designs. We're not asking folks to choose one design or the other. It's identifying elements of those designs that serve the community best, that serve the vision plan that, that community has identified. And then upcoming this spring, uh, we are working to, or the designer is working to, with our team and community, to unify those plans, um, those elements that, um, uh, serve that vision plan. And we anticipate construction late in twenty-six. For a deep dive into downtown capital projects, uh, we recognize that, uh, there's an economic sensitivity to disrupting traffic flow downtown. Um, and we maintain an eye on progress. Again, we're building a future for Asheville that is stronger, safer, more connected. And, um, obviously we need to, uh, coordinate with, um, business owners and, and, uh, and stakeholders downtown. It's a high priority, always is for our departments.Um, just a couple highlights. Cox Avenue, we recently met with business owners of South Slope to coordinate their, um, ongoing needs. As we get closer to going from design to construction, we anticipate a long, uh, review by NC DOT to ensure that it meets the federal requirements. Uh, for the Lexington Avenue project, there's a public meeting this Thursday, um, from five thirty to six at The Dissolver. And, um, again, for all of these projects, encourage folks to go to the project pages to find out more. Do you have any questions about what I just, uh, did a speed run through?
+
+[speaker_11]: On, on that previous slide-
+
+[speaker_10]: Yes.
+
+[speaker_11]: I'm kind of looking at this as overall investment in downtown. The parking garage repairs, any idea what that figure was off the top of your head?
+
+[speaker_10]: The last projects or-
+
+[speaker_0]: Except the-
+
+[speaker_11]: Well-
+
+[speaker_0]: All three. Did all three, all three decks.
+
+[speaker_11]: I'm just kinda adding up the investment in downtown here.
+
+[speaker_10]: I don't have the-
+
+[speaker_11]: We don't have a number.
+
+[speaker_10]: -number on that.
+
+[speaker_11]: That's all right.
+
+[speaker_0]: I think it was around eleven million.
+
+[speaker_11]: I think it was.
+
+[speaker_12]: Me too.
+
+[speaker_11]: I just couldn't... I didn't want to say it incorrectly. So that's a good investment in downtown.
+
+[speaker_0]: That's right. There's twenty million. Eleven million.
+
+[speaker_10]: Well, the, the two, uh, the... We-- so we just completed, uh, Wall Street and Rankin.
+
+[speaker_0]: Mm-hmm.
+
+[speaker_10]: And then Civic Center and Biltmore will-
+
+[speaker_0]: Are coming.
+
+[speaker_10]: -are coming up. So altogether, that'll be eleven million.
+
+[speaker_11]: Yeah.
+
+[speaker_0]: Do you-
+
+[speaker_12]: That's great.
+
+[speaker_0]: Um, you don't delineate here, but, um, for Cox Avenue, I think we got TDA money. So is that just blended into your number there?
+
+[speaker_10]: Yes.
+
+[speaker_0]: You don't pull it out.
+
+[speaker_10]: So-
+
+[speaker_0]: You're just, you're just telling us over-- You're not telling us the source of funds.
+
+[speaker_10]: Correct.
+
+[speaker_0]: You're just telling us the overall cost.
+
+[speaker_10]: Correct. We'll, we'll, um, isolate that a little more and-
+
+[speaker_0]: Yeah.
+
+[speaker_10]: Yes. The NC DOT funding is eighty/twenty match. Um-
+
+[speaker_0]: So there was, um... Well, there've been a series of Asheville Watchdog articles lately, uh, focusing on the City of Asheville. But in particular, there was one talking about the College Patent improvements, citing that the, the price went from a hundred thousand dollars when originally approved, however long ago that was, to two million dollars. Here you have one point one. Could you talk a little bit about that?
+
+[speaker_10]: Sure. So, uh, the one point one figure you see here was for, um, what we... Uh, what we estimated to be, uh, resurfacing, striping, um, doing ADA compliance, uh, curb ramps. Um, when we did the project a couple months ago, we got, uh, a figure that was about a million dollars over. And so what we've been doing since then is trying to figure out how to either descope the project or, um, maybe bid it in a different way, as well as raise funding or find funding within existing capital projects to, um, redirect into this project. Um-
+
+[speaker_0]: So the title of that article was pretty misleading. It said it went from a hundred thousand dollars to two million, but in fact, you had already budgeted one point one for the full package, but it came in, for, for what the scope of it was, much higher than expected.
+
+[speaker_10]: Right. Right. So part of that was, uh, that we required night work. Uh, downtown, we're trying to, again, be sensitive to downtown business owners.
+
+[speaker_0]: Mm-hmm.
+
+[speaker_10]: Um, so we're... Again, we're working on figuring out how to get the project bid this year. Uh, and again, finding the-
+
+[speaker_0]: That increased the cost of the project-
+
+[speaker_10]: That will increase the cost of the project.
+
+[speaker_0]: -requiring night work.
+
+[speaker_10]: That's correct.
+
+[speaker_11]: Mm-hmm.
+
+[speaker_12]: One of the questions I'm getting a lot in community is why we don't do more work in-house on roads and sidewalks, road repairs, so many potholes. Um, and I guess when I see that we're not getting a lot of bids and they're going over budget often, um, I just wanted to re-elevate that community concern. I know that there-- we've received the answer in the past that it's really hard to do internal hiring, um, and that's why we keep bidding out. But if we have a chance to multi-solve keeping dollars in our community and also being able to better control the costs, I have to just re-ask, why don't we bring those in-house instead of-
+
+[speaker_0]: Well, Wal-Walsh-- Maybe Walter can provide some correct information here because I do think we do potholes in-house, and we do a lot of infrastructure work in-house. So just to correct that, I mean, I know we just did a massive fix on Sunset Mountain completely in-house, which I was certainly surprised we did 'cause it was huge project, so... But-
+
+[speaker_12]: But sidewalks.
+
+[speaker_0]: But to the-
+
+[speaker_10]: Yeah.
+
+[speaker_0]: To the-- your point about these projects, if they're being bid out, are they-
+
+[speaker_10]: I'm gonna turn that over to Assistant City Manager.
+
+[speaker_11]: Try to look for something.
+
+[speaker_13]: Yeah. So, um, we, we would definitely have to like, uh, hire the equip-- or hire the staffing-
+
+[speaker_0]: Well, wait. Why don't you tell us what we do do in-house, if you don't mind?
+
+[speaker_13]: Oh, okay. Um, so we do sidewalk maintenance, uh, we do pothole, uh, maintenance, uh, we do have a stormwater crew that goes in and does stormwater work. Um, they do a lot of that in advance of a larger paving contract. Um, obviously water repairs.
+
+[speaker_0]: Do we do... I, I mean, we-- I've seen them do roadwork. Do we do any kind of roadwork?
+
+[speaker_13]: We do actually have a small paving crew. Uh, they don't do a lot of work every year, but they-- that is something that we actually have the capacity to do in-house. There are s-state statutory limits on the amount of work that we can do. Um, and I believe the number is three hundred thousand dollars. I would have to go look, research that.
+
+[speaker_0]: Why is that?
+
+[speaker_12]: I would love to know.
+
+[speaker_13]: It, it's just, uh, states... It's a forced labor account, um, statutory limit.
+
+[speaker_11]: That's an interesting one.
+
+[speaker_0]: Do, do you mean if it's over that amount, we have to bid it out?
+
+[speaker_13]: You can, you can have individual projects that are less than that, but yes, if you have an in-- a, a single project that does become problematic.
+
+[speaker_11]: Who knew?
+
+[speaker_12]: Wow.
+
+[speaker_10]: I, I, I can't tell you exactly what the, what the number is, but that-
+
+[speaker_11]: -that's
+
+[speaker_10]: true. There are, for whatever reason, on these types of projects, there are limitations on what they call a force, force account, which is city staff, uh, in terms of how much we can utilize city staff to do those things.
+
+[speaker_11]: Oh.
+
+[speaker_10]: They require the rest of that to be... My assumption is that that was intended to be an economic, uh, driver.
+
+[speaker_0]: Yeah. It sounds like some very successful lobbying on the part of the contractors.
+
+[speaker_13]: So, so the... Yeah. And then, and then it would just be the, the, uh, staffing and the, uh, equipment necessary to do additional work. Uh, we, we do do a wide variety of work in-house, and most of it's maintenance and, and repairs.
+
+[speaker_11]: Mm-hmm.
+
+[speaker_10]: Interesting.
+
+[speaker_12]: I have a question that might be for Walter or maybe Jake. Um, when I'm going back to the way that you're framing these projects with stronger, safer, and more connected, um-
+
+[speaker_14]: It feels like a week doesn't go by when I get some type of inquiry from a neighbor about them pursuing some type of traffic calming solution in their neighborhood, whether it's, um, a speed bump or yesterday someone was asking about getting a stop sign or things that are not major capital projects, but are things that our traffic engineer does an awesome job coming out and doing an assessment and making recommendations. And then it's like twenty-four months later and that email comes in again of like, "Where are we on this?" And I think our staff do a good job of doing the assessment, but my sense is the list, the, the list just keeps growing as people want safer neighborhoods to walk and be what have you. And so kind of an inquiry is, do you all look at that as a capital project? Is that something we could fund with bond money, or is that operational? So maybe this is even a DK question as we look at budget. Um, I think that if we're really trying to get to these goals of safer and more connected with infrastructure, um, traffic calming might be cheaper than a brand-new sidewalk in some places, and it might be just as sufficient, what have you. So it's kind of a bigger question. Um, not necessarily looking for an answer, more an inquiry to, for us all to ponder on where, where could we find resources for that?
+
+[speaker_10]: Sure. Those would definitely be operational projects, and we would add them into a capital project when, when necessary. Um.
+
+[speaker_14]: I want-- So the inquiry to me is, like, I'm seeing us bullet out when some of these are gonna be bond funded, and I've yet to see, like, here's the whole twenty twenty-four bond package, and my inquiry would be like, can we put five million of the transportation bond to this type of thing? Or is it fundamentally... Are those non-bondable projects or what? 'Cause it's infrastructure.
+
+[speaker_10]: Mm-hmm.
+
+[speaker_14]: Like, if we bundled, we're gonna do five hundred speed bumps. Like, that's a pretty big project. Do you see where I'm going on this?
+
+[speaker_10]: Yeah. We can add that to the April, um, work session, certainly.
+
+[speaker_14]: That'd be-- Yeah. That'd be great to look into that a little bit more.
+
+[speaker_10]: Okay.
+
+[speaker_12]: We also got a long list of, um, transportation updates in an email from staff on the seventeenth that includes traffic calming projects, a link to traffic calming projects and planning, um, how they are or aren't ranked, um, and updates coming to Virginia Avenue, Montford Avenue, Fairview Road. So some of those public works.
+
+[speaker_10]: I'll move on from... Thank you for your questions. I'll move on from steady states to recovery. Uh, so forgive the repeat slide. Um, I know we have a wide audience here, so that's a process reminder. Um, the, uh, process for infrastructure recovery is defined by federal funding sources. The city's, uh, priority is to maximize cost recovery within the funding requirements. Um, a lot of alphabet soup here of acronyms, FEMA PA, FEMA HMGP, HUD, CDBG-DR, or Community Development Block Grant Disaster Recovery program. Um, there's a reference slide here for-- I'm sorry, reference links here for past presentations made by others about those funding sources. Um, we are trying to layer funding, um, as much as we can. Various projects will or will not qualify for the various types of funding that we are, uh, trying to apply to those projects. Earlier today, uh, you found out about different stacks of funding sources. Um, and, uh, we're continuing to work through those processes to, again, maximize funding for projects to, uh, rebuild better for our community. A couple of FEMA PA repair projects that are ongoing. Uh, not a whole lot of updates here from the last time. Um, Thomas Wolfe Auditorium is under construction, uh, for the roof repair and, um, Eight River Arts Place down at the river and Biltmore Village, um, affected by both, certainly by the, by the storm are, uh, in design and, um, we're, uh, going on the process for design solicitation, solicitation for, um, a couple citywide infrastructure repair designs for, uh, related, related damage. HMGP, Hazard Mitigation Grant Program. Again, there are, um, uh, eight, eight projects that have been submitted to NCEM, uh, the North Carolina Emergency Management to the state. Uh, it's a state-run program. We are sub-applicants. They are the applicant. Um, again, four hundred and fifteen million dollars in potential projects. These are, again, applications only. Um, we're currently in the process of working with NCEM to, um, meet their requirements. They extended the deadline to February twenty-seventh, and, uh, when we submit to the state, they'll review those final packages and submit them to FEMA. We expect a lengthy review process by FEMA. Into projects. So the Riverfront Recovery projects, there are two large projects going on, uh, Azalea Park Infrastructure and Recovery and the French Broad Parks Recovery Project. Uh, these are two work, uh, work products from the two recent, um, community engagement sessions, a, a recent community engagement session in December. Um, it was, uh, a great session in, uh, Asheville Middle-- at the Asheville Middle School with, um, impressive attendance and, uh, we have another, another community design workshop this time at A-B Tech at the Ivy building and, um, it'll be this Saturday from eleven to two, uh, drop-in style with presentations for French Broad at the top of the hour and Azalea at the half hour.
+
+[speaker_12]: And to-- And, uh, just for clarity on this workshop, my understanding is it's taking all the input received to date and actually now presenting some.
+
+[speaker_10]: That's correct.
+
+[speaker_12]: So, so it's kind of the next step.
+
+[speaker_10]: Right. So, um, the, uh-Surveys and, and, uh, input taken from the infra-- Uh, sorry, the, the last session, uh, presented the infrastructure re-re, uh, recovery board and to the PFI work session to you, um, taking all that input and, and, um, giving additional feedback from that, uh, to the community. Again, wrapping up with key takeaways. Um, we presented the framework the second time about, uh, the capital and bond program in which we are creating a future for Asheville that is stronger, safer, more connected. We're building intentionally, and that takes time and temporary disruption. We're working to, um, uh, to mitigate those, but, uh, to ensure meaningful and lasting improvements. And, uh, recovery projects are underway. Federal processes take time, and we will give another update on our capital projects in April at a budget work session. And for project updates, I encourage everybody to go to the ashevilleNC.gov/projects website for more information. Thank you.
+
+[speaker_0]: He's, he's walking away. Any other questions?
+
+[speaker_1]: All right. That's it for the manager's report.
+
+[speaker_0]: All right. Thank you. Um, I think, uh, staff has a competition about how to present HMGPPA graphically, like all the things for recovery money. So we're seeing... We've seen it stacked and the Venn diagrams. Very good. All right. Our first public hearing tonight, our only public hearing tonight, is a public hearing on the proposed twenty twenty-five, twenty twenty-nine consolidated plan amendment to add affordable rental construction as a priority need and goal. And we have James Shelton here to present this to us.
+
+[speaker_15]: Good evening, Council. I'm James Shelton, the Community Development Division Manager in the Community Economic Development Department. This is blessedly not about recovery. Um, so we'll be talking about a plan that exists, um, within our division at the city, uh, that manages our community development block grant and home investment partnerships programs, which are steady-state, uh, programs that, again, are not related to disaster recovery. We're an entitlement community, um, which means with the Department of Housing and Urban Development, we receive grant funds each year from these programs. Uh, we're required to undergo a five-year consolidated plan every year, and we did that last year. Um, and it did not include affordable rental construction as a goal and priority need. Uh, for the home program specifically, which is an affordable housing program, we prioritize other activities like last year, like homeowner repair and rehabilitation, as well as tenant-based rental assistance. Um, we're recommending an amendment to the twenty twenty-five to twenty twenty-nine consolidated plan to correct that oversight and to add affordable rental construction as a priority need and goal. With the Home Investment Partnership Program, our governing body is, of course, the Asheville City Council, but we also have the Asheville Regional Housing Consortium. They voted unanimously to recommend amending the twenty twenty-five to twenty twenty-nine consolidated plan to add this type of activity, affordable rental construction, as a goal and priority need, uh, last month. And we're requesting council feedback and public comment on the proposed amendment. Again, we're not asking council to take any action tonight on this item. We've heard some feedback from council that y'all would like to have a public hearing on these types of items and not necessarily take a vote on it the same night. So we'd like to collect that public comment here tonight and throughout our public comment period through March sixth. We'll then bring any comments that we receive back to y'all, um, in March so that y'all can actually take a vote on authorizing us to submit the amendment to HUD. So y'all remember the Bowen report. Um, this was our housing needs assessment that we undertook as part of the twenty twenty-five to twenty nine-- twenty-nine consolidated plan. There was an identified profound need for new affordable rental units in the Asheville area within that report. Um, the existing plan that we developed out of that housing needs assessment did not include affordable rental construction as a priority, which currently prohibits us from undertaking activities like multi-family construction, uh, with the home program dollars. Now, we prioritized in this current year, homeownership activities as well as rental assistance. Um, we should have included affordable rental construction as an activity that we may undertake in future years of the program. Future years of our consolidated plan that we have remaining, which is four years. Because of that oversight, we're including-- we want to include rental construction for the remaining four years of that plan so that we can undertake those types of activities, um, including next year. Our housing consortium has, um, asked us to do this so that we can do rental construction activities with our twenty twenty-six dollars. So this is just to correct, um, an error and officially add rental construction as a priority need and goal, which enables us to undertake activities to address an urgent housing gap. This is a public hearing tonight just to gather public comment as well as to hear feedback from council. Um, again, the housing consortium voted January fourteenth to recommend this amendment, uh, to our, to our plan. We're holding a public comment period starting January thirtieth through March sixth, uh, which includes tonight's public hearing. This is in accordance with our citizen participation plan that governs how we're required to get public comments on any substant-- substantial amendments to our consolidated plan. You can write us at communitydevelopment@ashevillenc.gov. Write us at this mailing address, PO Box seventy-one forty-eight, or stop by City Hall on the fifth floor during regular hours, please. Um, and you can drop a written comment, um, in person. The final step in this process will be that staff will compile comments that we receive, bring those back to council, along with a request to authorize us to submit that amendment to HUD, uh, on March tenth. We'll be back at the March tenth, uh, city council meeting with that, uh, resolution requesting authorization to submit the amendment.Again, just wanna add affordable rental construction to that plan so that we can undertake that as an activity, uh, for the next four years of our twenty twenty-five to twenty twenty-nine plan. Be happy to take any questions from council, and I'd ask that we open public comment, um, after able to answer any questions from y'all.
+
+[speaker_16]: I just have one quick comment. The email that you shared to submit public comment to, just for the sake of the public, you can also email that email, I believe it's the same one, to say, "I'd like to receive ongoing updates about housing in the community." So you can also email this and say, "Hey, put me on your listserv for housing updates in general." I know I get them as a community member and a counselor, and they're pretty robust.
+
+[speaker_15]: Thank you, Council Member.
+
+[speaker_16]: It is the same email, right?
+
+[speaker_15]: Correct.
+
+[speaker_16]: Yeah. Thanks, James.
+
+[speaker_15]: Yeah.
+
+[speaker_16]: Good work.
+
+[speaker_0]: I'm gonna open the public hearing under this item, but probably because James is so thorough, no one has signed up to speak under this item. So I will close the public hearing. And we're not voting on this?
+
+[speaker_16]: Not tonight.
+
+[speaker_0]: So, okay. Thank you. Um, all right. The next item is under new business. It's an ordinance amending the fiscal year twenty twenty-five, twenty twenty-six fees and charges manual to increase fees at Aston Park Tennis Center and the associated budget amendment in the amount of twelve thousand one hundred dollars for additional anticipated revenue. I don't... Funny, this isn't on consent, but it's not on consent.
+
+[speaker_16]: Hearing.
+
+[speaker_0]: And I have that Chris was talking about this, but Chris Corll, are you here? Are you here? Yes. Did you know you were talking about this one? Okay.
+
+[speaker_16]: No. But he's ready. He's Chris Corll.
+
+[speaker_17]: Yeah, me. So Chris Corll, uh, community manager of mechanical facilities, and we're here to talk briefly about Aston Park Tennis Center fees.
+
+[speaker_0]: Very briefly.
+
+[speaker_17]: Um, fee increases to annual passes, fifty dollars across the board, and fee increases to the actual open entry fees, which are five dollar increases to all, um, entry fees across all the different, um, levels. And we're gonna use the additional revenue to help with, um, additional clay and maintenance of the courts, basically everything inside the fence of the tennis center. Happy to answer any questions.
+
+[speaker_0]: You sounded prepared. That was great.
+
+[speaker_1]: I'm ready to roll.
+
+[speaker_0]: Okay. Do we have that public comment?
+
+[speaker_2]: Yeah. We, uh, we don't have anyone signed up to speak under this item, which must mean you've done a great job at the pharmacy, because if we make tennis mad, we will hear about it. But do I have a motion?
+
+[speaker_3]: I move to adopt an ordinance amending the fiscal year twenty twenty-five, twenty twenty-six fees and charges manual to increase fees at Aston Park Tennis Center, and approval of an associated budget amendment of twelve thousand one hundred dollars account for additional anticipated revenue.
+
+[speaker_0]: I'll second.
+
+[speaker_2]: All right. We have a motion and a second. All those in favor, please say aye.
+
+[speaker_3]: Aye.
+
+[speaker_1]: Aye.
+
+[speaker_2]: Nay votes. All right. Okay, now we are gonna move on to the public comment on our fiscal year twenty twenty-six, twenty twenty-seven budget. So this is the budget beginning July one, uh, twenty twenty-six, and this is the first of, uh, number of opportunities, hopefully, to speak on the budget. And we have several people signed up to speak. Um, everyone who's speaking under this item, you'll have three minutes to speak. Please watch the lights on the lectern. Green means go, orange means you're getting ready to stop, and red means stop. Maggie's our timer, um, or clock. And, uh, so the first person signed up to speak under this item-
+
+[speaker_0]: Are we doing presentation?
+
+[speaker_3]: There's a presentation.
+
+[speaker_2]: I'm sorry. Are we-
+
+[speaker_0]: Do you wanna hear from staff?
+
+[speaker_2]: Yes. I'm sorry, Lindsay, you're... I'm sorry. Since you already did this.
+
+[speaker_1]: It's all right.
+
+[speaker_2]: During the council meeting. So-
+
+[speaker_0]: Are you guys ready for your third budget pre-budget presentation of the night?
+
+[speaker_3]: I'm ready.
+
+[speaker_2]: All right. This will be quick. Uh, I just wanted to give a quick intro to the budget public comment as we do every year, just for folks who might be tuning in for the first time. Um, so we'll, we'll be quick about this. So this year, FY twenty-six, we have a balanced budget, and now we're looking forward into FY twenty-seven, and we are focusing on making sure that we have a fiscally sustainable budget, um, and providing... We wanna make sure we're providing core services and quality of life services to the community. Um, as we have discussed at previous council sessions, at this point in the process, we're looking at a gap between revenues and expenses for next year. So that will require us to look at a mix of revenue increases and budget cuts in order to close that gap and balance the budget. Tonight is the first opportunity for the community to come speak and, um, provide input on the budget process. Uh, and once we get to through the rest of the process, and we get to May, we'll be releasing the manager's proposed budget. And then after that, we'll have another public comment opportunity in this very room. So just a quick explainer of what our budget is made up of. It's made up of what we expect to receive in revenue and what we expect to spend that revenue on. So on the revenue side, this is what our general fund looks like. About half of it is property taxes, and then another twenty-three percent is sales tax, and then the rest of it is other funding sources such as fees and charges for service and intergovernmental revenue from the state and federal government. And here's what we spend that money on. Uh, sixty-four percent of our budget is personnel, so that's salary, overtime, other types of pay, and of course, benefits, healthcare and whatnot. Uh, then only about twenty-one percent of our budget is operating costs, and the remaining goes towards, um, supporting other funds and, um, paying our debt service for capital projects. So here's kind of what the budget process looks like throughout the year. Uh, generally, my team starts in September in the fall, um, looking to identify the cost of delivering existing services. So working with departments, going line by line through their budgets and looking at what changes there might be for next year. Then getting into the winter and the early spring, we're starting to speak to council about their priorities and giving a little bit more context on the financial, um, uh, all the financial things that we're seeing. Then moving into April and May, having more conversations and work sessions with council. Um, and then, you know, you get to May, and then we have the proposed budget at that point, leading to June, where we come to adopt the budget. And then in July, the budget is put into effect, and we start all over again. So wanted to make sure everyone's aware of kind of what our priorities for-- are for our upcoming budget process. Um, we wanna make sure that we are achieving a budget that's structurally balanced and one that aims for fiscal stability in the long term. So not so much relying on short-term fixes, but kind of looking at a multi-year approach, making sure that we're looking at longevity. We also, of course, wanna prioritize clean recovery and make sure that we're providing reliable services to the community and make sure that, um, we're taking into account both the core services that we provide and also main-maintain and enhance, if possible, quality of life for our residents. So a bit on how we're gonna be talking to people throughout this budget process. You know, we wanna make sure that we're informing the community about the constraints that we're currently facing, and I'll talk a little bit about that in a minute. And we wanna be clear and transparent about what our plan of action is to address those. We wanna make sure we're providing meaningful information on the budget process and kind of help to explain to people what that means for the services that they're, that they're getting from their tax dollars. And of course, we wanna offer residents opportunity to share their thoughts as we are here to do today. And so you'll hear from us through many different venues. Um, we're u-utilizing city newspapers, city newsletters, um, our city website.Um, our, also our social media platforms, and we are of course, um, speaking with media, print media, television, radio. Uh, and of course, I think the-- one of the media source of the-- sources of information is gonna be council meetings just like this. Uh, we will show the schedule of how many times we'll be back to council to discuss budget in the coming months. All of those presentations are publicly available. Um, anyone is welcome to attend a council meeting to hear about the budget or, um, watch on YouTube. And we will have a public comment on May twenty-sixth as well. Okay. So just a really quick overlook as to what we can expect for next year. Uh, we're starting the budget process with a large gap between revenues and expenses, and this is due to a few reasons. Uh, we had to employ some one-time strategies in this year's budget that can't necessarily be repeated in next year's budget, so that has created a little bit of a gap. Um, of course, we're also experiencing lingering impact from Helene on our revenue side. And, um, of course, on the spending side, inflation is a problem that's, uh, a problem across the whole country. Healthcare has been hit especially hard, um, and we're also expecting unavoidable increases in transit and, uh, other services as well. So bottom line is we'll need to consider a mix of both revenue increases, such as property taxes and fees, and we'll also have to look at reducing our spending to make sure that we can end this process with a balanced budget. So here's kind of our timeline that we're working with. Uh, over the next couple of months, we'll come to council, uh, for a few different work sessions, which happen b- uh, a couple hours before the formal works-- the formal council meeting. Uh, also in March, we will come to adopt the new Fees and Charges manual. Uh, and then in May, we'll propose the budget and then kinda give everyone a little bit of time to read that budget it-- before, um, the public hearing that'll happen at the end of May. And everyone will be a bit, um... We'll have kind of a similar, um, opportunity for folks to speak at that meeting before the budget is adopted in June.
+
+[speaker_4]: Can you go back to that slide for a second?
+
+[speaker_2]: Sure.
+
+[speaker_4]: I just wanted to share that I know we're gonna have a public hearing about this. Um, because we have these budget work sessions during the day when folks are picking their kids up from school and still at work, um, folks might wonder why we're being a little bit quiet during this part. Um, but they can review our conversation about revenue and expenses and strategy, um, on the city's YouTube page. These are archived, um, all the work sessions and budget hearings.
+
+[speaker_2]: Thank you. That's important. All right. I will end there. Thank you.
+
+[speaker_5]: Okay. Thank you. Now for, um, public comment. Uh, the first person signed up to speak is Paul Howell.
+
+[speaker_6]: Good evening, Council, city t-city attorney. Welcome, City Manager. Mr. City Managers and the group that holds everything together, magic. Uh, for the past three council meetings, I stayed at home, and then I sit here today, and I listen to the decorum for the general public to go by. But not once have I heard the decorum for the employees of the general public. I'm quite sure there's a decorum for y'all as well, so we might need to read that so everybody know that as well. But I wanted to go back here because this seemed to be a thing with this budget. And I just wanted to go back because every time a budget comes up, it seems like the first thing that happens is property taxes increase. Now we go back to two thousand and fifteen, the budget included a one point five cent property tax increase. In two thousand and sixteen, the council raised taxes to fund borrowing for general obligation bonds that were approved via a resident referendum. In twenty twenty-one, the council passed a budget that included property tax increase along with employee pay raises. In twenty twenty-four, the council passed a budget that included a property tax increase along with employee pay raises. Hold up. Did I say... Okay. In twenty twenty-four, the budget included property tax increase described as the second consecutive year of a tax hike necessary to balance the budget and fund staff raises. In twenty twenty-five, a three point two six, two six cent property tax increase was adopted as part of the fiscal year twenty-five/twenty-six budget. This was required due to revenue loss following Tropical Storm Helene and to fund employees' compensation adjustments and maintain a strong credit rating. Now, I see up there where it says that the budget is balanced for this year. So now we are being told that we're gonna have the possibility or taxes, property taxes raised for next year to make up for a thirty million gap that we have yet to see. So why would-- why, why is it... I-- My question, I know I don't get no answers, but my question is, why is it that the first fix for anything when it comes to the budget is to raise property taxes? I'm quite sure there's other ways of getting money and funding. I mean, the people can't keep taking being taxed. It's like that's, "Hey, oh, we are in a hole. Let's property tax. Raise them, raise them."Don't y'all get it? It's hard on people. Find other solutions. There's other solutions. Start charging these people that wanna come in here and build property or build houses and stuff, and then they wanna sit on the property for two or three years without doing anything. Charge them for holding the property up from being built on. Charge them a deposit. I mean, find ways to get income besides taxing people. I also seen up there about the pools. I had to say this because in two thousand and seventeen... Thanks.
+
+[speaker_5]: Decorum, sir. Uh, Rachel Cohen.
+
+[speaker_7]: Hello, everyone. My name is Rachel, and I'm here on behalf of Sunrise Movement WNC. Thank you for taking the time to listen to the public. I wanna touch on two priorities we have to maintain funding in the next year, and that is our funding for sustain-sustainability efforts generally, and then transit specifically. So I want to note that for every hundred dollars we spend as a city right now, only forty-six cents goes to the sustainability department. That is mind-boggling to me. Um, we say that sustainability is one of our priorities, and we have plenty of policies and goals attached to those policies that signify that we care about environmental sustainability, and yet, if we don't put money where our mouth is, what do those policies and goals really mean? I wanna touch on transit because, well, I know costs are going up, and it's really, really tough. And I just wanna emphasize that public transit is an essential service for folks here. It is how people get to work. It is how they get to doctor's appointments. It's how they get to the grocery store. And so when we talk about what's essential or not essential, we believe that transit is essential. We've gotta find more sustainable ways to fund transit, obviously, and I definitely think a sales tax increase needs to be something that we're really serious about considering, whether we wanna go through the city-only route, through state approval, or wanna do it with the county together. We have to be serious about that. We cannot be allocating money for things like performing arts centers, which are really awesome, but not necessarily essential, when we can't have people being able to travel to the doctor and to the grocery store. So, uh, last thing, I just wanna say that I know the fund balance is an issue that we're all looking at, and from my perspective, um, having that reserve and the fund balance is for emergency use, and it sure seems to me like giant decreases in revenue because of a giant storm is an emergency that would... could make us feel okay about having dipping more into those reserves. So I would just urge you all to remember that addressing the climate emergency is essential. Hope you will keep that in mind as you go through the budget for next year. Thank you.
+
+[speaker_5]: Thank you. Thank you. Um, next is Kyle Turner.
+
+[speaker_8]: Hello. Mayor, Vice Mayor, Council, city staff. I'm Kyle Turner. I live in West Asheville. Asheville is not facing a temporary budget gap. We're facing a structural deficit where reoccurring expenses outpace reoccurring revenues. In the slide we recently... we just saw where a s-a structural solution will be needed, but we still call it a gap. That distinction matters because you fix a gap with a patch. You fix a structural deficit with a structural reform. Language signals seriousness. Let's use the correct term so that public understands the long-term solution, not the short-term fixes. I remember the first time I heard of this incident was here in city council. Someone said, "I don't know how we got here, and I don't know how we're going to fix this, but thank goodness we have a city manager who's on board." And I think that it's clear that she made it clear that this is something that she's inherited. That's my opinion. Thank you for your time.
+
+[speaker_5]: Thank you. Um, Kenyon DeLuca. And next will be Nina Tobish.
+
+[speaker_9]: Hi, y'all. Um, my name is Kenyon DeLuca. I have been living here in Asheville for a few years now. I moved here with my partner, who is a long time... or who was raised here. Um, and my concern that I have, came here today to address is, um, a concern over surveillance. I am worried that we are spending money surveilling our citizens instead of addressing problems. One of these... One of my primary concerns is the flock cameras. So we have a two-year flock, uh, contract for seventy-four thousand dollars, and I think that money could be spent elsewhere. Another one of my concerns would be Asheville's drone program. Um, Asheville has sinceJanuary of twenty twenty-five to the time the article was posted in the Citizens Times, November nineteenth, Asheville had acquired nine or eighteen drones at a c-cost of estimated nine thousand to twenty-two thousand a drone. That's almost a hundred and sixty-two thousand to three hundred and ninety-six thousand dollars that we're using to watch our citizens. This is a program that doesn't stop crime. It's a reactive program, and I think that we can spend this money better, especially when I learned today that the Asheville Police Department budget, uh, budget is over. That's it. Thank you so much for your time. Have a wonderful day.
+
+[speaker_10]: Thank you.
+
+[speaker_5]: Nina Tovish, and then next will be Vicky Meath.
+
+[speaker_11]: Good evening, council members, city staff. My name is Nina Tovish. I come to speak to you this evening and ask you to make your first priority with the budget to look after the most vulnerable in our city. Folks at the low end of the earning scale, our elderly, and our children. And key to that is starting within the city government household. I strongly urge you to adopt a policy of living wage for all city employees. City government needs to set the example for the rest of our community about the responsibility that employers have to ensure that the people who work for them can actually afford to live here. A good thing about providing a living wage is that that living wage is likely to stay in our community because the people who earn that living wage will be spending their income in the community. This is actually a, a double benefit, both for the well-being of employees, but also for all the businesses that they spend their money at, local businesses. The other side of the coin, revenue, property taxes, I understand that when we have a revaluation, the first step is to determine a revenue-neutral tax rate. It's pretty clear that that revenue-neutral tax rate is going to need to be boosted in order to cover additional expenses. I do hope that you will bear in mind, as I mentioned, the most vulnerable, old folks on fixed incomes, people who are living in communities where tax, property taxes are going up faster than their means allow them to cover, risking displacement. And we do have rebates and... Rebates. We have grants at the county level, which the city also participates in. But those programs are not as well subscribed to as they should be. There's a fairly burdensome application process. That's if even people ever even hear about those programs. And I urge you to consider creative legal strategies to automate the award of these grants. Oh, no yellow light. Thank you.
+
+[speaker_5]: Vicky Meath and then David Morris.
+
+[speaker_10]: I don't know.
+
+[speaker_9]: I think it was.
+
+[speaker_10]: I guess not.
+
+[speaker_9]: You think?
+
+[speaker_10]: Good evening, Council. I'm Vicky Meath. I'm the director of Just Economics, and I wanna take a quick opportunity to really welcome our new city manager. I look forward to working with you, um, while this is the first meeting that I've attended, um, since you've come on board. This is certainly not my first meeting, and I have definitely been here before. And when it comes to the budget, we've all been here before. Since I have started a-attending council meetings and being part of the budget process for the last decade and a half, we have never had a year where it's like, "Oh, this is an easy one. We're gonna fund all the things that, that the community needs."
+
+[speaker_5]: It's
+
+[speaker_10]: always like, "This is, this is a tough budget year," every single year. But often, we have managed to fund many things that we truly value. Even in difficult times, we need to remember our values. At one point, the council valued city workers making enough to live in the city where they served, and over time, the city got away from following its own living wage policy. But you've been inching back in that direction, and we want to encourage that, that progress and continue to get there. The twenty twenty-six living wage rate in Buncombe County is twenty-four dollars and ten cents an hour. While this is increasing, so are the costs of living f-- like food, housing, healthcare, and other necessities for our working class folks in this community. On behalf of Just Economics, I invite you to work together to make the same commitment that hundreds of local businesses have made and pay a living wage.I also want to emphasize the importance of transportation. The bus is a lifeline for people who don't or cannot drive, and it's critical infrastructure in our community's recovery efforts. We need to at least, at the very least, the same, the same level of service and prepare for a level of growth that the future of the city needs. Transit that is good for locals is good for tourists too. We need both coverage and frequency for a strong transit system, and we need to meet the needs of the bus riders that we currently have and prepare for bus riders in the future. A safe, adequate, and reliable transportation system will require investment, but I believe that that investment has and will pay de-dividends in serving our community and helping to meet some of our environmental goals. In closing, I want to see budgets demonstrate values. I know this is a challenging year, like I said, and I'm willing to work with you at Just Economics. We are willing to work with you, and, um, we hope that you will, um, value and prioritize an affordable, safe, and livable community for working-class people. Thank you.
+
+[speaker_5]: Thank you. Uh, David Moritz, and then afterwards, Chris Peterson.
+
+[speaker_12]: Hi, City Council. My name is David Moritz. Um, our budget issues provide us with an opportunity to try to fundamentally a different approach to our budget. Year after year, our spending has grown faster than our population, faster than inflation, and faster than our local economy. In just five years, our budget has grown by seventy-one point two million dollars, about thirty-eight point six percent, while our population within the city limits has barely grown. This means we're asking roughly the same number of residents to shoulder a dramatically larger bill. Unfortunately, this comes at a time when we've said no to many good revenue-generating projects. We need to ask the question of what kind of government we want. Um, if the answer is simply to spend more and hire more, then this city will continue producing unaffordability because that's exactly what happens when government expands faster than the society it governs. For example, I know that we have a budget last year of thirteen hundred and ninety-six employees. We currently, I believe, have thirteen hundred and three full-time employees, so I'm not sure w-how we expected to pay for those additional ninety-three staff. So I think we need to look closely at the staff numbers and not expand them more if we don't have the budget for them. Now, this isn't just an Asheville problem, it's a pattern we're seeing in many cities nationwide. Spending grows, promises grow, the bureaucracy grows, but the results don't, and eventually these choices make cities unaffordable for the very people they claim to serve. Asheville can't afford to continue on a trajectory where each year requires more revenue, more staff costs, and more debt pressure just to maintain the same level of service. If we don't restore fiscal discipline, we will be forced into property tax increases, and our residents will bear the burden. Now, affordability begins with housing, but the solution isn't to keep our hurdles or to grow subsidies which we can't afford. What we need is abundant, buildable housing downtown and along our transit corridors. Make it routine, not exceptional. If we do that, we'll increase supply, attract and retain workforce, expand the tax base, strengthen local GDP, and most importantly, make our budget work. Residents deserve safe streets, good infrastructure, a strong economy, predictable services, and enough housing so that people can afford to live here and that we can expand our revenue base. Thank you.
+
+[speaker_5]: Okay, Chris Peterson.
+
+[speaker_13]: Hello, Council. Um, I was here a year ago. I told y'all you were going broke. You know? Okay, we're broke. The problem is, you know, none of y'all are facing up to it. Y'all hide. You know? The public doesn't trust y'all. You know what? For example, you know, you had a secret budget meeting. You know? I called WOF and said, "You need to get up here." Nobody was up here. You thought you were gonna get away with this thirty million dollar mistake. Actually, correct it at sixty million. Y'all need to wake up. Um, so you had it, and you had to admit it. So then you throw City Council elections during Christmas week. Wow, you didn't want nobody running against you, did you? You know, I hate to say it, but really, the phonyism, you know, uh, what y'all have done is despicable. Y'all need to be replaced, except for you. But you, you went out there during the hurricane and actually faced the public while everybody else hid. You know, take care of your budget, your budget. Let me tell you where your problem is. It's real simple. You got a hundred and forty-eight million salary and wages. And Mayor, since you've been here seven years, your wages have gone up seventy million, sixty million dollars.That's unaffordable. You would-- The-- You're bankrupt. Um, you s-- y'all said you're gonna-- you balanced the budget. Somebody, God, gave-- came down here and gave you thirty million dollars. I don't believe it. And number one, we're having a budget meeting. First time I've been to a budget meeting, I can't see your budget. How do you expect me to sit here and, and be stupid enough? But I'm using last year's budget when I told you we're broke. Uh, let's see. You, you know, your chamber pushes tourism, you know, cheap tourist dollars. They need to be bringing corporate money in. If you don't start bringing in good jobs, you lost thirteen thousand people, young people, 'cause you don't have good paying jobs. So, you know, I don't know where you get, you don't pay your salary. Now, here's the problem too. If you-- Salary and wage is a hundred and forty-eight million. That's starting out. Hundred and forty-eight million. You're-- What you bring in, money. Simple math, a hundred and thirty-eight million. You're ten million in the hole before you get into this other garbage. You know, salaries, you need ten more million, fund balance three, bond six-
+
+[speaker_5]: Thank you.
+
+[speaker_13]: Uh, transit four, and more salaries.
+
+[speaker_5]: Thank, thank you. Thank you.
+
+[speaker_13]: Anyway, start telling the truth. Quit lying. Quit playing politics.
+
+[speaker_5]: Okay, that concludes our public comment on the budget. Uh, and-
+
+[speaker_3]: Oh, there's-
+
+[speaker_5]: There may be... If you're signed, you're-- There are some people signed up for general public comment, so we'll do that in just a minute. Yep. I'm gonna turn it over to the vice mayor to do boards and commissions.
+
+[speaker_3]: Thanks, Mayor. Council, we have nine boards up for consideration this evening. The first is the Affordable Housing Advisory Committee. There are two vacancies, and staff and the chair recommend Mike Holmes and Michael Peasant. Is there a motion for Mr. Holmes and Mr. Peasant?
+
+[speaker_5]: So moved.
+
+[speaker_3]: Is there a second?
+
+[speaker_4]: Second.
+
+[speaker_3]: All those in favor say aye.
+
+[speaker_5]: Aye.
+
+[speaker_3]: Any opposed? Motion passes unanimously.
+
+[speaker_1]: Oh, I had someone else besides Michael Peasant.
+
+[speaker_3]: On your form?
+
+[speaker_1]: Yeah. That was gonna-
+
+[speaker_3]: Okay. We just need to slow down a little bit. Okay, I'll slow down, but the motion is already-
+
+[speaker_1]: Oh, well.
+
+[speaker_3]: That already passed.
+
+[speaker_1]: Okay. Well-
+
+[speaker_3]: So are you a yay or nay?
+
+[speaker_1]: Well, I mean, I'm a yay for one of them and a nay for one of them. I thought we were gonna do it the way we normally do it when we... But...
+
+[speaker_3]: Are you okay with the two moving forward? It sounds like we have majority.
+
+[speaker_1]: I mean-
+
+[speaker_3]: Are you saying your list has different names, or you had a suggestion?
+
+[speaker_1]: No, I was going to choose Mike Holmes and Mark Wyman.
+
+[speaker_3]: So the motion on the table was for Mike Holmes and Michael Peasant.
+
+[speaker_1]: Right. So we-
+
+[speaker_3]: Are you a yay or nay? Because it was already seconded is what I'm saying.
+
+[speaker_5]: Just so I can get the vote.
+
+[speaker_1]: So we're doing them both at the same time, so...
+
+[speaker_3]: Yes.
+
+[speaker_5]: That was the motion.
+
+[speaker_3]: That was the motion.
+
+[speaker_1]: Mmm.
+
+[speaker_4]: Just say nay then.
+
+[speaker_5]: Just say nay.
+
+[speaker_4]: Nay is fine.
+
+[speaker_1]: Nay on one of them, yay on the other one.
+
+[speaker_5]: So that's not half votes, Maggie. It's six and a half votes.
+
+[speaker_4]: It's six to one.
+
+[speaker_3]: Okay. Up next is the Asheville Buncombe River-Riverfront Commission. There is one vacancy, but there were no applications received for this seat, so the clerk will re-advertise. The audit committee, there is one vacancy, and the chair recommends Randall Hall. Is there a motion?
+
+[speaker_4]: So moved.
+
+[speaker_3]: Is there a second?
+
+[speaker_1]: Second.
+
+[speaker_3]: All those in favor?
+
+[speaker_5]: Aye.
+
+[speaker_3]: Any opposed? Motion passes unanimously. On to the board of adjustment. There is one vacancy, and the members must be city residents. The staff and chair recommend Billy Johnson for a appointment. Is there a motion?
+
+[speaker_4]: So moved.
+
+[speaker_3]: Is there a second?
+
+[speaker_1]: Second.
+
+[speaker_3]: All those in favor say aye.
+
+[speaker_5]: Aye.
+
+[speaker_3]: Any opposed? Motion passes unanimously. The Buncombe County Tourism Development Authority. There is one vacancy, and this seat is for an owner/operator of hotels, motels, and bed and breakfasts with more than one hundred rental units. The TDA Board of Development Committee recommends Kyle Heiberg for appointment. Is there a motion for Mr. Heiberg?
+
+[speaker_4]: I have a question before we move forward with the motion.
+
+[speaker_3]: Sure.
+
+[speaker_4]: Um, there are two applicants, um, whose primary residence is in Hendersonville and one that is primary residence in Asheville. I know that, um, we have some flexibility with this. Um, can you speak as the liaison to, um, why that recommendation might be in front of us if the person doesn't live in Asheville?
+
+[speaker_3]: Is this the Hendersonville candidate? No, Kyle Heiberg.
+
+[speaker_4]: Kyle Heiberg has their, um, address in Hendersonville according to the documents available from, uh, the clerk's office.
+
+[speaker_5]: Was there a qualification issue? I know this has to be a person associated with a hotel with over a hundred rooms, right? Maggie, do you know if there was some issue with any of them?
+
+[speaker_4]: I know there was, I know there was discussion about this, um...
+
+[speaker_3]: Um, just as a general add on, I'm encouraging us to interview for positions of TDA that are of such great importance to the community.
+
+[speaker_1]: I would second that.
+
+[speaker_3]: Mm.
+
+[speaker_14]: So just to speak, uh, to that. So the, the clerk's office does review all these, uh, in conjunction with city attorney's office to establish r-the qualifications of any candidate before they come through. As I recall, and I haven't read this in just a little bit, but I don't believe there's a specific residency requirement. Uh, there's obviously a preference in the TDA that the ownership of the, um, uh, producing asset, the tax-producing asset, be within the actual county. So there is some preference, but I don't think it's specified in the actual statute. City Council does have a preference across the board for residents, but it is not a mandate.
+
+[speaker_3]: Because I thought Kyle lived-- was not in the city.
+
+[speaker_5]: It actually looks like none of the three of them live in the city.
+
+[speaker_3]: Okay. But their facilities are.
+
+[speaker_5]: So his residence, yeah, their facilities are.
+
+[speaker_3]: Yeah.
+
+[speaker_5]: It doesn't look like any of them are
+
+[speaker_3]: So the requirement is that the one hundred, um-
+
+[speaker_4]: Hotel.
+
+[speaker_3]: -hotel, motel, whatever it be.
+
+[speaker_5]: Some are, yeah.
+
+[speaker_4]: Some Arlington residents are city residents.
+
+[speaker_5]: No, yeah, no, that's true. I, I...
+
+[speaker_4]: I'm going by what the clerk's office supplied, which is that we have a resident of Asheville. So I would go back to, um, just as a default, uh, interviewing is my preference for the DEA, but I can support that.
+
+[speaker_1]: I agree, too. Just, and then we'd be able to ask such questions like, "Where is your hotel?"
+
+[speaker_3]: Okay, so my apologies. I thought in the work session we decided to just do it.
+
+[speaker_1]: This was the only one I was hung up on. I didn't know others were...
+
+[speaker_3]: So do we need to determine now whether we want to-
+
+[speaker_8]: That clarification about their facility being in Asheville, uh, helps, but I'm, I'm good with interviewing if the majority of council wants to do that.
+
+[speaker_5]: So you're... Maggie, um, the only-- Dexter Hazel is the only one that lists... I mean, he says he's not a city of Asheville resident. He's got an art... He-- On the form, he says no. I don't think any of them are. All three of them are not.
+
+[speaker_3]: Okay.
+
+[speaker_5]: But so-
+
+[speaker_0]: And we pro-- we would've looked at that whenever we were, um, verifying the applications. So are you wanting to interview just the two?
+
+[speaker_3]: Well, are we wanting to interview? So then we have to, I guess, take... Who wants to interview? And we'll just go down. Kevin?
+
+[speaker_1]: I'll do this.
+
+[speaker_3]: Beth, yes.
+
+[speaker_15]: I'll do.
+
+[speaker_3]: Two.
+
+[speaker_8]: Yeah, I'm good with that.
+
+[speaker_3]: Okay, so four don't.
+
+[speaker_1]: Yeah.
+
+[speaker_3]: So we'll go ahead. Is there a motion for Kyle Heiberg?
+
+[speaker_15]: So moved.
+
+[speaker_3]: Is there a second?
+
+[speaker_1]: Second.
+
+[speaker_3]: Okay, all those in favor say aye.
+
+[speaker_8]: Aye.
+
+[speaker_15]: Aye.
+
+[speaker_4]: Aye.
+
+[speaker_3]: Any opposed?
+
+[speaker_1]: Nay.
+
+[speaker_15]: Um, can we show-
+
+[speaker_8]: We need to show hands on that, please.
+
+[speaker_15]: Hands.
+
+[speaker_1]: Nay here.
+
+[speaker_5]: All in favor, raise your hand. All opposed, raise your hand. Okay.
+
+[speaker_3]: Motion passes five to-
+
+[speaker_4]: My, um, motion-- Or my no vote is based on the process, not on the person.
+
+[speaker_3]: Okay. Motion passes five to two. Up next is the Multimodal Transportation Commission. Um, this seat, uh, is an ex officio seat that is reserved for, uh, a planning and zoning representative. Uh, the Planning and Zoning Commission recommends Member Jonathan Anzaleto. Is there a motion for Mr.-
+
+[speaker_8]: So moved.
+
+[speaker_1]: Second.
+
+[speaker_3]: Okay, all those in favor say aye.
+
+[speaker_8]: Aye.
+
+[speaker_15]: Aye.
+
+[speaker_4]: Aye.
+
+[speaker_3]: Any opposed? Motion passes unanimously. This one is gonna be a little-
+
+[speaker_5]: Oh my gosh
+
+[speaker_3]: ... tougher.
+
+[speaker_4]: Okay, um, can I give an update from the-
+
+[speaker_3]: Can, can I tell what it is?
+
+[speaker_4]: Sure.
+
+[speaker_3]: Okay, it's the Neighborhood Advisory Committee. There are four vacancies. Go ahead, Councilwoman.
+
+[speaker_4]: Okay. We discussed this in our Policy, Finance, and Infrastructure meeting, and we had talked about leaving the two at-large seats open while appointing the two eight eight zero five and two eight eight zero four. Um, as the liaison, um, upon review, because one of the members, um, had applied for both at-large and the zip code, and we wanna have that geographic equity as a consideration for neighborhood advisory, um, I suggest we leave one-- Or I move that we leave one seat open at-large, appoint, um, Lucas to two eight eight zero five, Lindsay to two at-large, and two eight eight zero four as Richard Wallace.
+
+[speaker_0]: I'm sorry. I apologize. What was your one at-large?
+
+[speaker_4]: Lindsay Johnson White.
+
+[speaker_0]: Okay, and then Mr. Wallace for, uh, four.
+
+[speaker_4]: Correct.
+
+[speaker_0]: Okay, got it.
+
+[speaker_3]: Is there a second?
+
+[speaker_1]: I'll, I'll second that, Kim.
+
+[speaker_3]: Okay, all those in favor of appointing Lucas Ray to be the two eight eight oh five representative, Richard Wallace to be the two eight eight oh four representative, and Lindsay Johnson White to one of the two vacant at-large seats. All those in favor say aye.
+
+[speaker_8]: Aye.
+
+[speaker_15]: Aye.
+
+[speaker_4]: Aye.
+
+[speaker_3]: Any opposed?
+
+[speaker_5]: I'm sorry, Vice Mayor, can I-- Do you want us to re-advertise?
+
+[speaker_3]: Yes.
+
+[speaker_1]: Yes, please.
+
+[speaker_3]: Up next is Public Art and Culture Commission. There are two vacancies. Uh, the chair recommends Stacy Anderson and Kimberly Hundertmark.
+
+[speaker_8]: So moved.
+
+[speaker_3]: Is there a second?
+
+[speaker_1]: Second.
+
+[speaker_3]: All those in favor, please say aye.
+
+[speaker_8]: Aye.
+
+[speaker_15]: Aye.
+
+[speaker_4]: Aye.
+
+[speaker_3]: Any opposed? Motion passes unanimously. And finally is the Sustainability Advisory Committee. There's one vacancy, and the staffing chair recommends Elizabeth Ecke or Tynesha Carden. Is there a motion?
+
+[speaker_5]: I make a motion to, um, recommend to appoint Tynesha Carden.
+
+[speaker_3]: Is there a second?
+
+[speaker_1]: Second.
+
+[speaker_3]: All those in favor say aye.
+
+[speaker_8]: Aye.
+
+[speaker_15]: Aye.
+
+[speaker_4]: Aye.
+
+[speaker_3]: Is there any opposition? Motion passes unanimously. Mayor, that's the last board this evening. I'll turn it back over to you.
+
+[speaker_5]: All right. Thank you. Okay, now we have, uh, general public comment. We have a few people signed up to speak here. Again, three minutes to speak. Please watch the lights on the lectern. The first person signed up to speak is Naconda Garcia.
+
+[speaker_4]: Oh, see her.
+
+[speaker_5]: And maybe, maybe we... Okay, the next person signed up to speak is Kyle Turner.
+
+[speaker_8]: I've already did the side mutations, so I'll start right away. There's a real question in Asheville. When downtown gets cleaner, does West Asheville get left out? Downtown operates a business improvement district, the Astro Bid, managed by the Asheville Downtown Association. Property owners inside that boundary pay moreIn return, they receive more. More trash pickup, more sidewalk cleaning, more ambassador presence, more daily management. West Asheville does not. No supplemental assessment, no ambassador overlay, no enhanced service layer. So what happened? Not by a... So what happened? That's a question mark. Not by a vote, not by an announcement, but by design, possibly. When one corridor operates a higher service standard than the other operates at a lower baseline, pressure moves, activity shifts. People gravitate toward areas that feel less regulated, less aggressive, and less monitored. That can look like displacement. Now, here's the sharper question: Is downtown standards... Is, if the downtown standard works, why isn't it citywide? Are we equitably distributing services or are we quietly accepting two different levels of public investment inside one city? A business improvement district is a cleanliness and business support tool. It's not a housing policy, it's not a mental health response, and it is not-- and it does not solve root issues. City Council draws boundaries, I do believe. City Council approves assessments. City Council renews districts. So leadership isn't about whether downtown deserves cleaner streets
+
+[speaker_0]: Of course it does. Leadership is about whether every corridor deserves a consistent baseline of dignity, safety, and services. If we evaluate one zone with elevating the whole system, visibility needs doesn't disappear. It relocates. The question isn't does downtown versus Asheville. The question really is, is are we building one standard for Asheville and maintaining two different realities? West Asheville is different lately. There's trash.
+
+[speaker_1]: Thank you.
+
+[speaker_0]: That's a great way to end.
+
+[speaker_1]: Mike Stratton.
+
+[speaker_2]: Good evening, everybody. Um, first of all, I just wanna say thank you, um, for what you guys do. You have a really hard job. Um, this is not the, the situation that anybody wants to find themselves in. A lot of people that have had a lot of passions behind them, all related to this budget. Um, I should have spoke on the budget a minute ago, so do it now. But, um, I also wanted to take the opportunity to say thank you to everybody I spoke with on behalf of, uh, Oakley's neighborhood and the Orange Field that's coming in, um, and your consideration for the, um, uh, traffic calming, uh, speed humps that we're, we're considering for, for that corridor. So thank you. Um, but as far as the, uh, topic of the evening, as far as I'm concerned, uh, it's the bus. Um, I've really been all over the place in terms of, like, what I was gonna say to you. There's all kinds of things to say. Um, I thought, you know, maybe I would talk about the two thousand and nine Master Transit Plan and how none of the recommendations were, were taken, or the two thousand and eighteen Master Transit Plan, none of the recommendations were, you know, were taken, or the fact that we spend hundreds of thousands of dollars on these recommend-- on these consultants, and we don't take their recommendations. Um, you know, I thought maybe I would make some sort of, um, I don't know, like a, a logic argument. Say, well, you know, we've been experiencing all kinds of, uh, budget shortfalls with APD and staffing issues, but no-nobody has stood up here and said, "Hey, let's just cut off some neighborhoods and not, not service those neighborhoods." That's effectively what we're doing here. So I thought maybe we'd talk about the maps and how, you know, this is good coverage, and this is what you're gonna slash it to. And, you know, there's just all kinds of stuff we could have talked about. But I think at the end of the day, it's, it's mostly important to talk about the people that are on the bus. And I'd ask all of you guys when was the last time you were on the bus and ask them what they thought about it. Because when I was on the S5, and I ride the S5 all the time, it goes right in front of my house and stops right in front of the house, and it's a, it's a great, it's a great thing. Uh, but when I heard it was gonna be potentially on the chopping block because the ridership numbers were too low, which again, I beg to differ. I'd like to see those numbers, 'cause every time I get on that bus, it's mostly full. Um, but on one of those occasions when the bus was mostly full, I looked around and I saw a mom and a baby, I saw the elderly, I saw, um, disabled folks, I saw people of color, I saw white people. I see, you know, a whole mix of, of folks on, on the bus that I don't, I don't see anywhere else in town. I get an opportunity to talk to all these people all the time. But on this occasion, I, I asked them, I said, "Hey, do you guys know that they're considering cutting this bus?" And they, and I was met with, "Whoa." Like, people were pissed. They were, they were like, "No, we didn't know that. Why?" It was vitriol. I mean, they just were, were flummoxed at, at the absurdity of what I was telling them. People are on the way to go to work at Mission Hospital as, as a nurse. These are people going to work. These are our service industry people. Um, these are people who are reliant on this, on this service.
+
+[speaker_1]: Thank you. John Davis.
+
+[speaker_3]: Good evening, city staff, mayor, and members of the city council. My name is Woody Davis, and I'm here tonight to talk about UNCA's recently revived proposal to destroy the forty-five acre forest in Asheville's Five Points neighborhood in order to build a privately owned five thousand seat soccer stadium. When that project was paused last August, this council sent the university's administration a powerful letter asking that they establish a more inclusive, transparent, and robust community engagement process before proceeding. Five months later, the university has responded with the creation of a millennial campus committee, heavily stacked with insiders and working under the auspices of the university's endowment fund, apparently to avoid public records requirements, as all meetings are to be conducted in secret. The problem then as now is that the administration appears to be unwilling to be transparent, collaborative, or even straightforwardly honest with any stakeholder that doesn't stand to benefit financially from this project. That includes students, faculty, staff, alumni, neighbors, elected officials, and even the UNC system's own board of governors, many of whom expressed shock at how underdeveloped the university's proposal was and how little effort they had made to secure community buy-in when the project was first presented last year. While my neighbors and I find some hope in the fact that the newly established committee is, on paper, independent from the administration, the university's track record so far leaves us very skeptical that this is truly a good faith effort to hear the community's concerns or seriously consider alternatives. We are tired of UNCA treating the people it serves as though their thoughts, desires, and wellbeing are irrelevant, and we are sick of the administration acting like community outreach is just an irritating hurdle to be cleared on the way to realizing their commercial real estate schemes rather than an integral part of the process. UNCA is a public university funded by our taxes. The land in question was purchased with a public bond, again, paid for by the people living here. That the university thinks it is appropriate to treat the public resources under its care as nothing more than commercial real estate development opportunities against the opposition of the very community that created and supported the school over the years remains shocking. We believe that the pushback from this council, along with that from UNCA's Board of Governors and the Buncombe County Commission, were important or even decisive factors in forcing the administration to pause their project last August. And so we are coming to you again to ask for your support in opposing the disastrous stadium plan and pushing the university to treat words like transparency and community engagement like they mean something. We are asking you to continue pushing the university to take this community seriously and to present the same united front with your constituents and fellow elected officials that you did last August. Please let the administration know that this latest move is not sufficient, and that until UNCA commits to a process that is truly founded on trust, collaboration, and shared vision, the city cannot support its efforts. Thank you.
+
+[speaker_1]: Thank you.
+
+[speaker_4]: Perfect timing.
+
+[speaker_1]: Okay, that concludes our public comment for tonight, and we are adjourned.
